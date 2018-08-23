@@ -16,7 +16,8 @@ Requirements around building a campaign page for Canada.ca
 ## Getting Started
 
 1. Review the section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
-2. 
+2. Determine if you are using the [reduced header and footer or not](#global-header-and-footer) 
+3. 
 
 
 ## Government of Canada Rules and Regs
@@ -53,6 +54,22 @@ WET Campaign Page Examples:
 
 * [WET Campaign Page Example 1](http://wet-boew.github.io/themes-dist/GCWeb/campaign-en.html)
 * [WET Campaign Page Example 2](http://wet-boew.github.io/themes-dist/GCWeb/campaign2-en.html)
+
+
+## Global Header and Footer 
+
+There are two versions of the global header and footer that can be used when building a campaign page. 
+
+* Global Header and Footer
+* Reduced Header and Footer 
+
+The "Global" version matches almost every other page on Canada.ca, while the "Reduced" version allows users to concentrate on the content and task at hand by removing the main navigation elements on the page. 
+
+### Global version 
+
+![alt text](/images/global-header-desktop.png)
+
+### Reduced version
 
 
 ## Break Points 
