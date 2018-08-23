@@ -17,9 +17,22 @@ The following are a list of Government of Canada rules and regulations that have
 * Content and IA Specification
 
 
+### Content and IA Specification
+
+The Government of Canada has authored the [Content and IA Specification](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html) to help ensure a consistent user experience across all Canada.ca pages. 
+
+The CIAS document has a [section](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates-detailed-specifications/campaign-pages.html) specifically for Campaign pages where you can find more details about the specification as well as examples of Campaign Pages.
+
+
+
 ## Web Experience Toolkit 
 
 Information about WET goes here 
+
+WET Campaign Page Examples: 
+
+* [WET Campaign Page Example 1](http://wet-boew.github.io/themes-dist/GCWeb/campaign-en.html)
+* [WET Campaign Page Example 2](http://wet-boew.github.io/themes-dist/GCWeb/campaign2-en.html)
 
 
 ## Break Points 
