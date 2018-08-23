@@ -65,9 +65,14 @@ There are two versions of the global header and footer that can be used when bui
 
 The "Global" version matches almost every other page on Canada.ca, while the "Reduced" version allows users to concentrate on the content and task at hand by removing the main navigation elements on the page. 
 
-### Global version 
+### Global Widescreen Desktop Version 
 
-![alt text](/images/global-header-desktop.png)
+![Screenshot of Canada.ca with global header in wide screen desktop](/images/global-header-desktop.png)
+
+### Global Mobile Version 
+
+![Screenshot of Canada.ca with global header in mobile](/images/global-header-mobile.png)
+
 
 ### Reduced version
 
