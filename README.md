@@ -37,7 +37,13 @@ The [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secr
 
 ### Web Standards for the Government of Canada
 
-To do.
+The [Government of Canada Standards on Web](http://tbs-sct.gc.ca/ws-nw/index-eng.asp) are a collection of policy vehicles that demonstrates the Government of Canada's commitment to delivering websites and applications that are more accessible, usable, interoperable and optimized for mobile devices. These Web Standards replace Common Look and Feel 2.0 (CLF 2.0) Standards for the Internet.
+
+* [Standard on Optimizing Websites and Applications for Mobile Devices](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088)
+* [Standard on Web Interoperability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875)
+* [Standard on Web Usability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227)
+* [Standard on Web Accessibility](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601)
+
 
 ## Web Experience Toolkit 
 
