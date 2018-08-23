@@ -3,7 +3,8 @@ Requirements around building a campaign page for Canada.ca
 
 **Table of contents** 
 
-
+* [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
+* [Web Experience Toolkit ](#web-experience-toolkit)
 * [Break Points](#break-points)
 * [Contributing](#contributing)
 * [License](#license)
