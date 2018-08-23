@@ -1,8 +1,11 @@
-# Campaign Page Notes for Canada.ca 
+# Building a Campaign Page for Canada.ca 
 Requirements around building a campaign page for Canada.ca
+
+***
 
 **Table of contents** 
 
+* [Getting Started](#getting-started)
 * [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
 * [Web Experience Toolkit ](#web-experience-toolkit)
 * [Break Points](#break-points)
@@ -10,12 +13,15 @@ Requirements around building a campaign page for Canada.ca
 * [License](#license)
 
 
-## Government of Canada Rules and Regs  
+## Getting Started
+
+1. Review the section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
+2. 
+
+
+## Government of Canada Rules and Regs
 
 The following are a list of Government of Canada rules and regulations that have to be followed when creating content for and publishing to the [Canada.ca](https://canada.ca) website: 
-
-* Content and IA Specification
-
 
 ### Content and IA Specification
 
@@ -24,6 +30,14 @@ The Government of Canada has authored the [Content and IA Specification](https:/
 The CIAS document has a [section](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates-detailed-specifications/campaign-pages.html) specifically for Campaign pages where you can find more details about the specification as well as examples of Campaign Pages.
 
 
+### Canada.ca Content Style Guide
+
+The [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html) documents the rules that must be used when creating and authoring web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people.
+
+
+### Web Standards for the Government of Canada
+
+To do.
 
 ## Web Experience Toolkit 
 
