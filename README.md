@@ -5,14 +5,38 @@ Requirements around building a campaign page for Canada.ca
 
 **Table of contents** 
 
+* [Preface](#preface)
+  * [What is a Campaign Page?](#what-is-a-campaign-page)
 * [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+* [Building Mockups](#building-mockups)
+  * [Step 1](#step-1-determine-what-header-and-footer-you-are-using)
+* [Mockup Checklist](#mockup-checklist)
 * [Resources](#resources)
   * [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
   * [Web Experience Toolkit ](#web-experience-toolkit)
   * [Break Points](#break-points)
+  * [Key Links](#key-links)
 * [Contributing](#contributing)
 * [License](#license)
 
+
+## Preface
+
+This README.md page was created to assist folks in the creation and design of Campaign Pages that go on Canada.ca. Help with building the actual pages are beyond the scope of this document. The objective is to provide the reader with a number of helpful resourses as well as take the reader through a series of steps to assist in the design process.
+
+### What is a Campaign Page? 
+
+Campaign pages are time-limited, promotional pages that respond to the Government of Canada’s desire to communicate, educate, influence, market, raise awareness and call to action.
+
+These pages:
+* allow for multi-channel or cross-channel marketing strategies that are centrally or institutionally funded (for example, print, television, radio, web, social media)
+* enable the discovery of content that was created specifically for a GC advertising campaign, along with links to related program- or service-based content
+* allow for greater visual design flexibility, while remaining connected to Canada.ca through navigation
+
+Regardless the template variation applied, content on campaign page-sets or mini-sites should always point to the source Canada.ca program content in effective and compelling ways. This prevents confusion related to information authority and errors related to duplicate content.
+
+Source: https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates-detailed-specifications/campaign-pages.html
 
 ## Getting Started
 
@@ -21,7 +45,6 @@ Requirements around building a campaign page for Canada.ca
 Review the section entitled Government of Canada Rules and Regs
 
 Review the section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
-
 
 
 ## Building Mockups
@@ -36,6 +59,9 @@ Determine if you are using the [reduced header and footer or not](#global-header
 
 
 ### Step 3: 
+
+
+## Mockup Checklist 
 
 
 ## Resources 
@@ -100,6 +126,12 @@ The "Global" version matches almost every other page on Canada.ca, while the "Re
 ### Break Points 
 
 Information about Break Points will go here.
+
+
+
+### Key Links
+
+Key links go here.
 
 
 ## Contributing 
