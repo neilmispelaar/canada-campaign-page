@@ -7,9 +7,8 @@ Requirements around building a campaign page for Canada.ca
 
 * [Preface](#preface)
   * [What is a Campaign Page?](#what-is-a-campaign-page)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
 * [Building Mockups](#building-mockups)
+  * [Prerequisites](#prerequisites)
   * [Step 1](#step-1-determine-what-header-and-footer-you-are-using)
 * [Mockup Checklist](#mockup-checklist)
 * [Resources](#resources)
@@ -38,17 +37,19 @@ Regardless the template variation applied, content on campaign page-sets or mini
 
 Source: https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates-detailed-specifications/campaign-pages.html
 
-## Getting Started
-
-### Prerequisites 
-
-Review the section entitled Government of Canada Rules and Regs
-
-Review the section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
-
 
 ## Building Mockups
 
+The following section takes the reader through some important prerequisites and then the steps that are recommended to build out the mockups for Campaign pages.   
+
+
+### Prerequisites 
+
+Before we start designing anything, it would be a good idea to review the literature written and adopted by the Government of Canada pertaining to Web content, design and implementation.
+
+The section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs) has descriptions and links to all of the relevant documentation.
+
+Emphasis should be placed on reviewing the [Content and IA Specification](#content-and-ia-specification) as well as the [Content Style Guide](#canadaca-content-style-guide). This is because the Standards on Web focuses more on implementation and less on content and design.
 
 ### Step 1: Determine what header and footer you are using 
 
@@ -63,6 +64,9 @@ Determine if you are using the [reduced header and footer or not](#global-header
 
 ## Mockup Checklist 
 
+- [ ] Thing 1
+- [ ] Thing 2
+- [ ] Thing 3
 
 ## Resources 
 
