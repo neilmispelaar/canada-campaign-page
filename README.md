@@ -153,13 +153,7 @@ The "Global" version matches almost every other page on Canada.ca, while the "Re
 
 ### Break Points 
 
-Information about Break Points will go here.
-
-
-
-
-
-
+![Screenshot of Canada.ca in different viewports](/images/viewports.png)
 
 |                              | Extra small devices Phones (<768px) | Small devices Tablets (=768px) | Medium devices Desktops (=992px)    | Large devices Desktops (=1200px)    |
 | ---                          | ---             | ---        | ---     | ---        |
@@ -168,6 +162,7 @@ Information about Break Points will go here.
 | Column width                 | Auto            | 60px       | 78px    | 95px       |
 
 More information about the Grid System utilized by Canada.ca can be found here: http://wet-boew.github.io/wet-boew-styleguide/v4/design/grids-en.html
+
 
 ### Key Links
 
