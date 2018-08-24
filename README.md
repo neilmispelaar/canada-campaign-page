@@ -49,17 +49,21 @@ Before we start designing anything, it would be a good idea to review the litera
 
 The section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs) has descriptions and links to all of the relevant documentation.
 
-Emphasis should be placed on reviewing the [Content and IA Specification](#content-and-ia-specification) as well as the [Content Style Guide](#canadaca-content-style-guide). This is because the Standards on Web focuses more on implementation and less on content and design.
+Emphasis should be placed on reviewing the [Content and IA Specification](#content-and-ia-specification) as well as the [Content Style Guide](#canadaca-content-style-guide) as these documents focus more on content, design and design patterns.  
+
 
 ### Step 1: Determine what header and footer you are using 
 
-Determine if you are using the [reduced header and footer or not](#global-header-and-footer) 
+Review the section on [Template Variants](#template-variants) and determine if you are using the **Global Header and Footer** or the **Reduced Header and Footer**. 
 
 
 ### Step 2: 
 
+TO DO 
 
 ### Step 3: 
+
+TO DO 
 
 
 ## Mockup Checklist 
@@ -106,9 +110,9 @@ WET Campaign Page Examples:
 * [WET Campaign Page Example 2](http://wet-boew.github.io/themes-dist/GCWeb/campaign2-en.html)
 
 
-### Global Header and Footer 
+### Template Variants 
 
-There are two versions of the global header and footer that can be used when building a campaign page. 
+There are two versions of the header and footer that can be used when building a campaign page. 
 
 * Global Header and Footer
 * Reduced Header and Footer 
@@ -124,7 +128,11 @@ The "Global" version matches almost every other page on Canada.ca, while the "Re
 ![Screenshot of Canada.ca with global header in mobile](/images/global-header-mobile.png)
 
 
-#### Reduced version
+#### Reduced Widescreen Desktop Version
+
+
+#### Reduced Mobile Version
+
 
 
 ### Break Points 
