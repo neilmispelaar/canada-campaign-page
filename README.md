@@ -156,6 +156,12 @@ The "Global" version matches almost every other page on Canada.ca, while the "Re
 Information about Break Points will go here.
 
 
+|                              | Extra Extra Small | Extra Small | Small    | Medium    | Large |
+| ---                          | ---               | ---         | ---      | ---       |---    |
+| Screen Width / Breakpoint    | < 479px           | < 768px     | < 992 px | < 1200 px | > 1200 px |
+| Container Width              | < 479 px          | 750 px      | 970 px   | 1170 px     | Hello |
+
+
 
 ### Key Links
 
