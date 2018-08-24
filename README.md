@@ -156,12 +156,18 @@ The "Global" version matches almost every other page on Canada.ca, while the "Re
 Information about Break Points will go here.
 
 
-|                              | Extra Extra Small | Extra Small | Small    | Medium    | Large |
-| ---                          | ---               | ---         | ---      | ---       |---    |
-| Screen Width / Breakpoint    | < 479px           | < 768px     | < 992 px | < 1200 px | > 1200 px |
-| Container Width              | < 479 px          | 750 px      | 970 px   | 1170 px     | Hello |
 
 
+
+
+
+|                              | Extra small devices Phones (<768px) | Small devices Tablets (=768px) | Medium devices Desktops (=992px)    | Large devices Desktops (=1200px)    |
+| ---                          | ---             | ---        | ---     | ---        |
+| Container Width              | Auto            | 750px      | 970px   | 1170px     |
+| Number of columns            | 12              | 12         | 12      | 12         |
+| Column width                 | Auto            | 60px       | 78px    | 95px       |
+
+More information about the Grid System utilized by Canada.ca can be found here: http://wet-boew.github.io/wet-boew-styleguide/v4/design/grids-en.html
 
 ### Key Links
 
