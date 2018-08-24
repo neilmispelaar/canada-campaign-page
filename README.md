@@ -10,6 +10,8 @@ Requirements around building a campaign page for Canada.ca
 * [Building Mockups](#building-mockups)
   * [Prerequisites](#prerequisites)
   * [Step 1](#step-1-determine-what-header-and-footer-you-are-using)
+  * [Step 2](#step-2-review-the-different-breakpoints-on-canada-ca)
+  * [Step 3](#step-3-download-mockup-templates-pptional)
 * [Mockup Checklist](#mockup-checklist)
 * [Resources](#resources)
   * [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
@@ -23,6 +25,7 @@ Requirements around building a campaign page for Canada.ca
 ## Preface
 
 This README.md page was created to assist folks in the creation and design of Campaign Pages that go on Canada.ca. Help with building the actual pages are beyond the scope of this document. The objective is to provide the reader with a number of helpful resourses as well as take the reader through a series of steps to assist in the design process.
+
 
 ### What is a Campaign Page? 
 
@@ -54,14 +57,22 @@ Emphasis should be placed on reviewing the [Content and IA Specification](#conte
 
 ### Step 1: Determine what header and footer you are using 
 
-Review the section on [Template Variants](#template-variants) and determine if you are using the **Global Header and Footer** or the **Reduced Header and Footer**. 
+Review the section on [Template Variants](#template-variants) and determine if you are using the Global Header and Footer or the Reduced Header and Footer. 
 
 
-### Step 2: 
+### Step 2: Review the different breakpoints on Canada.ca
+
+Review the section on [Breakpoints](#breakpoints) to better understand the different viewports that need to be considered when designing content for the Campaign page. 
+
+It is critical to provide creative direction for all viewports, so that the development teams know exactly how content should react in each viewport.
+
+
+### Step 3: Download Mockup Templates (Optional) 
 
 TO DO 
 
-### Step 3: 
+
+### Step 4: Design 
 
 TO DO 
 
@@ -117,7 +128,7 @@ There are two versions of the header and footer that can be used when building a
 * Global Header and Footer
 * Reduced Header and Footer 
 
-The "Global" version matches almost every other page on Canada.ca, while the "Reduced" version allows users to concentrate on the content and task at hand by removing the main navigation elements on the page. 
+The "Global" version matches almost every other page on Canada.ca, while the "Reduced" version removes the main navigation elements as well as some footer elements which enables users to concentrate better on the content and the task at hand. 
 
 
 #### Global Widescreen Desktop Version 
