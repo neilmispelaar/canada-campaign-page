@@ -6,37 +6,57 @@ Requirements around building a campaign page for Canada.ca
 **Table of contents** 
 
 * [Getting Started](#getting-started)
-* [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
-* [Web Experience Toolkit ](#web-experience-toolkit)
-* [Break Points](#break-points)
+* [Resources](#resources)
+  * [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
+  * [Web Experience Toolkit ](#web-experience-toolkit)
+  * [Break Points](#break-points)
 * [Contributing](#contributing)
 * [License](#license)
 
 
 ## Getting Started
 
-1. Review the section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
-2. Determine if you are using the [reduced header and footer or not](#global-header-and-footer) 
-3. 
+### Prerequisites 
+
+Review the section entitled Government of Canada Rules and Regs
+
+Review the section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
 
 
-## Government of Canada Rules and Regs
+
+## Building Mockups
+
+
+### Step 1: Determine what header and footer you are using 
+
+Determine if you are using the [reduced header and footer or not](#global-header-and-footer) 
+
+
+### Step 2: 
+
+
+### Step 3: 
+
+
+## Resources 
+
+### Government of Canada Rules and Regs
 
 The following are a list of Government of Canada rules and regulations that have to be followed when creating content for and publishing to the [Canada.ca](https://canada.ca) website: 
 
-### Content and IA Specification
+#### Content and IA Specification
 
 The Government of Canada has authored the [Content and IA Specification](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html) to help ensure a consistent user experience across all Canada.ca pages. 
 
 The CIAS document has a [section](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates-detailed-specifications/campaign-pages.html) specifically for Campaign pages where you can find more details about the specification as well as examples of Campaign Pages.
 
 
-### Canada.ca Content Style Guide
+#### Canada.ca Content Style Guide
 
 The [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html) documents the rules that must be used when creating and authoring web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people.
 
 
-### Web Standards for the Government of Canada
+#### Web Standards for the Government of Canada
 
 The [Government of Canada Standards on Web](http://tbs-sct.gc.ca/ws-nw/index-eng.asp) are a collection of policy vehicles that demonstrates the Government of Canada's commitment to delivering websites and applications that are more accessible, usable, interoperable and optimized for mobile devices. These Web Standards replace Common Look and Feel 2.0 (CLF 2.0) Standards for the Internet.
 
@@ -46,7 +66,7 @@ The [Government of Canada Standards on Web](http://tbs-sct.gc.ca/ws-nw/index-eng
 * [Standard on Web Accessibility](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601)
 
 
-## Web Experience Toolkit 
+### Web Experience Toolkit 
 
 Information about WET goes here 
 
@@ -56,7 +76,7 @@ WET Campaign Page Examples:
 * [WET Campaign Page Example 2](http://wet-boew.github.io/themes-dist/GCWeb/campaign2-en.html)
 
 
-## Global Header and Footer 
+### Global Header and Footer 
 
 There are two versions of the global header and footer that can be used when building a campaign page. 
 
@@ -65,19 +85,19 @@ There are two versions of the global header and footer that can be used when bui
 
 The "Global" version matches almost every other page on Canada.ca, while the "Reduced" version allows users to concentrate on the content and task at hand by removing the main navigation elements on the page. 
 
-### Global Widescreen Desktop Version 
+#### Global Widescreen Desktop Version 
 
 ![Screenshot of Canada.ca with global header in wide screen desktop](/images/global-header-desktop.png)
 
-### Global Mobile Version 
+#### Global Mobile Version 
 
 ![Screenshot of Canada.ca with global header in mobile](/images/global-header-mobile.png)
 
 
-### Reduced version
+#### Reduced version
 
 
-## Break Points 
+### Break Points 
 
 Information about Break Points will go here.
 
