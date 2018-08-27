@@ -84,6 +84,21 @@ PSD, PNG (and others?) templates are under construction...
 
 (When Available) Download the templates that you prefer to work with...
 
+#### Global Header
+
+* Global Header - Extra small devices Phones (<768px) [PSD](/templates/global-header-mobile.psd) 
+* Global Header - Small devices Tablets (=768px)
+* Global Header - Medium devices Desktops (=992px)
+* Global Header - Large devices Desktops (=1200px)
+
+#### Reduced Header
+
+* Reduced Header - Extra small devices Phones (<768px) [PSD](/templates/reduced-header-mobile.psd) 
+* Reduced Header - Small devices Tablets (=768px)
+* Reduced Header - Medium devices Desktops (=992px)
+* Reduced Header - Large devices Desktops (=1200px)
+
+
 These are only provided as a convenience, if you have your own template files or software that you prefer to work with please feel free to use those instead.
 
 Please let us know if there are additional templates that you would like to see here.
