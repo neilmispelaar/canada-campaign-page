@@ -10,7 +10,7 @@ Requirements around building a campaign page for Canada.ca
 * [Building Mockups](#building-mockups)
   * [Prerequisites](#prerequisites)
   * [Step 1](#step-1-determine-what-header-and-footer-you-are-using)
-  * [Step 2](#step-2-determine-if-you-want-breadcrumbs-reduced-header-and-footer-only 
+  * [Step 2](#step-2-determine-if-you-want-breadcrumbs-reduced-header-and-footer-only)
   * [Step 3](#step-3-review-the-different-breakpoints-on-canada-ca)
   * [Step 4](#step-4-download-mockup-templates-optional) 
   * [Step 5](#)
