@@ -1,4 +1,4 @@
-# Building a Campaign Page for Canada.ca 
+# Designing a Campaign Page for Canada.ca 
 Requirements around building a campaign page for Canada.ca
 
 ***
@@ -10,11 +10,13 @@ Requirements around building a campaign page for Canada.ca
 * [Building Mockups](#building-mockups)
   * [Prerequisites](#prerequisites)
   * [Step 1](#step-1-determine-what-header-and-footer-you-are-using)
-  * [Step 2](#step-2-review-the-different-breakpoints-on-canada-ca)
-  * [Step 3](#step-3-download-mockup-templates-pptional)
+  * [Step 2](#step-2-determine-if-you-want-breadcrumbs-reduced-header-and-footer-only 
+  * [Step 3](#step-3-review-the-different-breakpoints-on-canada-ca)
+  * [Step 4](#step-4-download-mockup-templates-optional) 
+  * [Step 5](#)
 * [Mockup Checklist](#mockup-checklist)
 * [Resources](#resources)
-  * [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs)
+  * [Web Guidelines for the Government of Canada](#web-guidelines-for-the-government-of-canada)
   * [Web Experience Toolkit ](#web-experience-toolkit)
   * [Break Points](#break-points)
   * [Key Links](#key-links)
@@ -38,43 +40,62 @@ These pages:
 
 Regardless the template variation applied, content on campaign page-sets or mini-sites should always point to the source Canada.ca program content in effective and compelling ways. This prevents confusion related to information authority and errors related to duplicate content.
 
-Source: https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates-detailed-specifications/campaign-pages.html
+More information about Campaign pages: https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates-detailed-specifications/campaign-pages.html
 
 
-## Building Mockups
+## Designing Mockups
 
-The following section takes the reader through some important prerequisites and then the steps that are recommended to build out the mockups for Campaign pages.   
+The following section takes the reader through some important prerequisites and then the steps that are recommended to design  the mockups for Campaign pages.   
 
 
 ### Prerequisites 
 
 Before we start designing anything, it would be a good idea to review the literature written and adopted by the Government of Canada pertaining to Web content, design and implementation.
 
-The section entitled [Government of Canada Rules and Regs](#government-of-canada-rules-and-regs) has descriptions and links to all of the relevant documentation.
+The section entitled [Web Guidelines for the Government of Canada](#web-guidelines-for-the-government-of-canada) has descriptions and links to all of the relevant documentation.
 
 Emphasis should be placed on reviewing the [Content and IA Specification](#content-and-ia-specification) as well as the [Content Style Guide](#canadaca-content-style-guide) as these documents focus more on content, design and design patterns.  
 
 
 ### Step 1: Determine what header and footer you are using 
 
-Review the section on [Template Variants](#template-variants) and determine if you are using the Global Header and Footer or the Reduced Header and Footer. 
+Review the section on [Template Variants](#template-variants) and determine if you are using either the Global Header and Footer or the Reduced Header and Footer. 
 
 
-### Step 2: Review the different breakpoints on Canada.ca
+### Step 2: Determine if you want Breadcrumbs (Reduced Header and Footer only) 
+
+If choose to use the Reduced Header and Footer, you may choose to either keep or remove the Breadcrumbs from the mockups. 
+
+If you had chosen the Global Header and Footer in the previous step then you have to keep the Breadcrumbs and they have to be in your mockups. 
+
+
+### Step 3: Review the different breakpoints on Canada.ca
 
 Review the section on [Breakpoints](#breakpoints) to better understand the different viewports that need to be considered when designing content for the Campaign page. 
 
 It is critical to provide creative direction for all viewports, so that the development teams know exactly how content should react in each viewport.
 
-
-### Step 3: Download Mockup Templates (Optional) 
-
-TO DO 
+As an example, if you only create a mockup for Wide Screen Desktop, the development teams won't know how the designer intended for the content to react in a mobile or tablet environment.
 
 
-### Step 4: Design 
+### Step 4: Download Mockup Templates (Optional) 
 
-TO DO 
+PSD, PNG (and others?) templates are under construction...
+
+(When Available) Download the templates that you prefer to work with...
+
+These are only provided as a convenience, if you have your own template files or software that you prefer to work with please feel free to use those instead.
+
+Please let us know if there are additional templates that you would like to see here.
+
+
+### Step 5: Design 
+
+Start designing!
+
+When complete refer to the [checklist](#mockup-checklist) below prior. 
+
+TO DO
 
 
 ## Mockup Checklist 
@@ -82,10 +103,13 @@ TO DO
 - [ ] Thing 1
 - [ ] Thing 2
 - [ ] Thing 3
+- [ ] Thing 4
+- [ ] Thing 5
+- [ ] Thing 6
 
 ## Resources 
 
-### Government of Canada Rules and Regs
+### Web Guidelines for the Government of Canada
 
 The following are a list of Government of Canada rules and regulations that have to be followed when creating content for and publishing to the [Canada.ca](https://canada.ca) website: 
 
