@@ -94,7 +94,7 @@ PSD, PNG (and others?) templates are under construction...
 #### Reduced Header
 
 * Reduced Header - Extra small devices Phones (<768px) [PSD](/templates/reduced-header-mobile.psd) 
-* Reduced Header - Small devices Tablets (=768px) [PSD](/templates/global-header-tablet.psd) 
+* Reduced Header - Small devices Tablets (=768px) [PSD](/templates/reduced-header-tablet.psd) 
 * Reduced Header - Medium devices Desktops (=992px)
 * Reduced Header - Large devices Desktops (=1200px)
 
