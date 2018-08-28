@@ -115,12 +115,13 @@ TO DO
 
 ## Mockup Checklist 
 
-- [ ] Thing 1
-- [ ] Thing 2
-- [ ] Thing 3
-- [ ] Thing 4
-- [ ] Thing 5
-- [ ] Thing 6
+The following checklist is certainly not exhaustive, but contains a list of common issues or occurances that designers should be aware of:
+
+- [ ] Design elements should not exceed the container width for each viewport (no full width designs)
+- [ ] Contrast ratio of at least 3:1 against adjacent colours for user interface components and graphic elements with important elements [WCAG 2.1 1.4.11](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#1411-non-text-contrast-aa)
+- [ ] Block capitals must be avoided, and italicised text can only be used to name acts or legislation 
+- [ ] [Common design patterns](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/common-design-patterns.html) defined in the Content and IA Spec should be adhered to and not reinvented
+
 
 ## Resources 
 
