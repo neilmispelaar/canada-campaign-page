@@ -173,7 +173,7 @@ The "Global" version matches almost every other page on Canada.ca, while the "Re
 
 #### Global Widescreen Desktop Version 
 
-![Screenshot of Canada.ca with global header in wide screen desktop](/images/global-header-desktop.png)
+![Screenshot of Canada.ca with global header in wide screen desktop](/images/global-header-desktop-1.png)
 
 
 #### Global Mobile Version 
