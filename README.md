@@ -88,15 +88,15 @@ PSD, PNG (and others?) templates are under construction...
 
 * Global Header - Extra small devices Phones (<768px) [PSD](/templates/global-header-mobile.psd) 
 * Global Header - Small devices Tablets (=768px) [PSD](/templates/global-header-tablet.psd) 
-* Global Header - Medium devices Desktops (=992px)[PSD](/templates/global-header-medium-desktop.psd) 
-* Global Header - Large devices Desktops (=1200px)[PSD](/templates/global-header-large-desktop.psd) 
+* Global Header - Medium devices Desktops (=992px) [PSD](/templates/global-header-medium-desktop.psd) 
+* Global Header - Large devices Desktops (=1200px) [PSD](/templates/global-header-large-desktop.psd) 
 
 #### Reduced Header
 
 * Reduced Header - Extra small devices Phones (<768px) [PSD](/templates/reduced-header-mobile.psd) 
 * Reduced Header - Small devices Tablets (=768px) [PSD](/templates/reduced-header-tablet.psd) 
-* Reduced Header - Medium devices Desktops (=992px)[PSD](/templates/reduced-header-medium-desktop.psd) 
-* Reduced Header - Large devices Desktops (=1200px)[PSD](/templates/reduced-header-large-desktop.psd) 
+* Reduced Header - Medium devices Desktops (=992px) [PSD](/templates/reduced-header-medium-desktop.psd) 
+* Reduced Header - Large devices Desktops (=1200px) [PSD](/templates/reduced-header-large-desktop.psd) 
 
 
 These are only provided as a convenience, if you have your own template files or software that you prefer to work with please feel free to use those instead.
